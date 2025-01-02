@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Enter partition where your CD/DVD is mounted:")
+	fmt.Println("Enter partition where your CD/DVD is mounted (e.g., D:/):")
 	var partition string
 	fmt.Scanln(&partition)
 	fmt.Println("Enter output iso name(without .iso):")
