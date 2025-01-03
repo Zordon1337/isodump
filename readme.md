@@ -20,7 +20,7 @@ Utility/Tool/App for CD/DVD backup purposes written in go
     ```
 3. Build the project:
     ```sh
-    go run main.go
+    go build main.go
     ```
 
 ## Example
