@@ -6,7 +6,7 @@ Utility/Tool/App for CD/DVD backup purposes written in go
 
 
 ## Requirements
-- Go 1.16 or higher
+- Go 1.20 or higher
 - A CD/DVD drive
 
 ## Installation
